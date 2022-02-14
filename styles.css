@@ -3,3 +3,7 @@ body{
   font-family: 'Open Sans', sans-serif;
   padding: 3em;
 }
+
+.card-img{
+  height: 200px;
+}
