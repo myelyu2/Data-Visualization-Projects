@@ -5,5 +5,10 @@ body{
 }
 
 .card-img{
-  height: 200px;
+  max-width: 100%;
+  height: auto;
+}
+
+.video{
+  max-width: 70%;
 }
